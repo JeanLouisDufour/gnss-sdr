@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Apr 22 23:03:01 2020
+
+@author: F074018
+"""
+
+class L1:
+	FREQ_HZ = 1.57542e9
+	MAX_TOA_DELAY_MS = 20
+	STARTOFFSET_MS = 68.802
+	class CA:
+		BIT_PERIOD_MS = 20
+		CHIP_PERIOD = 9.7752e-07
+		CODE_LENGTH_CHIPS = 1023.0
+		HISTORY_DEEP = 100
+		OPT_ACQ_FS_HZ = 2000000
+		CODE_PERIOD = 0.001
+		CODE_PERIOD_MS = 1
+		CODE_RATE_HZ = 1.023e6
